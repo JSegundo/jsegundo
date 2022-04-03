@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**JSegundo/jsegundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Segundo from Argentina, 
 
-Here are some ideas to get you started:
+![](https://github.com/jsegundo/github-stats/blob/master/generated/overview.svg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
