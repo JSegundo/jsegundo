@@ -2,7 +2,7 @@
 
 I'm Segundo from Argentina, 
 
-![](https://github.com/jsegundo/github-stats/blob/master/generated/overview.svg)
+https://github.com/jsegundo/github-stats/blob/master/generated/overview.svg
 
 
 - 🔭 I’m currently working on ...
