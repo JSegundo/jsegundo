@@ -2,7 +2,8 @@
 
 I'm Segundo from Argentina, 
 
-https://github.com/jsegundo/github-stats/blob/master/generated/overview.svg
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsegundo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 - 🔭 I’m currently working on ...
