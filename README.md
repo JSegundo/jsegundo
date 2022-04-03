@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Segundo from Argentina, 
+I'm Segundo from Argentina, and i do full stack web development. I really enjoy styling and building complex applications using frameworks like React, and i'm also curious to learn new technologies.
+
+## Skills and Experience
+* ⚛️ React
+* 💻️ HTML, CSS, JS
+* 📱️React Native
+* ☁️ NodeJS with express 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsegundo)](https://github.com/anuraghazra/github-readme-stats)
 
