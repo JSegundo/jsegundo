@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 I'm Segundo from Argentina, and i do full stack web development. I really enjoy styling and building complex applications using tools like React, and i'm also curious to learn new technologies like Next and Graphql.
 
