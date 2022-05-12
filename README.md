@@ -12,7 +12,6 @@ I'm Segundo from Argentina, and i do full stack web development. I really enjoy 
 
 
 
-- 🔭 I’m currently working on my personal portfolio to share with you all my projects.
-- https://personal-portfolio-ashen-psi.vercel.app/
+- 💼️ My portfolio: https://personal-portfolio-ashen-psi.vercel.app/
 - 📫 How to reach me: https://www.linkedin.com/in/segundojuan/
 
