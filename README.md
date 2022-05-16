@@ -1,9 +1,9 @@
 # Hi there 
 
-I'm Segundo from Argentina, and i do full stack web development. I really enjoy styling and building complex applications using tools like React, and i'm also curious to learn new technologies like Next and Graphql.
+I'm Segundo from Argentina, and I do full stack web development. I really enjoy styling and building complex applications using tools like React, and I'm also curious about learning new technologies.
 
 ## Skills and Experience
-* ⚛️ React
+* ⚛️ React, Next
 * 💻️ HTML, CSS, JS
 * 📱️React Native
 * ☁️ NodeJS with express 
