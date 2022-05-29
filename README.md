@@ -6,7 +6,8 @@ I'm Segundo from Argentina, and I do full stack web development. I really enjoy 
 * ⚛️ React, Next
 * 💻️ HTML, CSS, JS
 * 📱️React Native
-* ☁️ NodeJS with express 
+* 💾️ NodeJS with express
+* ☁️ PostgreSQL, MongoDB, Firebase. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsegundo)](https://github.com/anuraghazra/github-readme-stats)
 
