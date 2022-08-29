@@ -1,10 +1,10 @@
 
 
-## Skills and Experience
-* ⚛️ React, Next
-* 💻️ HTML, CSS, JS
-* 📱️React Native
-* 💾️ NodeJS with express
+## Skills and Experience.
+* ⚛️ React, Next.
+* 💻️ HTML, CSS, JS.
+* 📱️React Native.
+* 💾️ NodeJS with express, Nest.
 * ☁️ PostgreSQL, MongoDB, Firebase. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsegundo)](https://github.com/anuraghazra/github-readme-stats)
