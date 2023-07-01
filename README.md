@@ -2,7 +2,7 @@
 
 ## Skills and Experience.
 ### Frontend
-* ⚛️ React, Next.
+* ⚛️ React. Next, Vite.
 * 💻️ HTML, CSS, JS.
 * 📱️React Native.
 
@@ -15,6 +15,5 @@
 
 
 
-- 💼️ My portfolio: https://www.segundojuan.com/
 - 📫 How to reach me: https://www.linkedin.com/in/segundojuan/
 
