@@ -6,8 +6,7 @@ I'm fluent in JavaScript, HTML, CSS,spanish and english. I've been building stuf
 
 🔨 Stuff I've built includes:
 - Landing Pages: Created various landing pages that sent data to different CRMs.
-- E-Commerce Platform: The UI with Material-UI.
-- Progressive Web App: Used geospatial technologies like GeoJsons and implemented verification process using oepn-source ballerine SDK. 
+- Progressive Web App: Utilized GeoJSON for geospatial features and integrated a KYC verification process using an open-source project's SDK for camera-based user data retrieval. 
 - Backoffice panel: backoffice to streamline administrative tasks and data visualization.
 - Browser Extension: A personal project to avoid distractions while browsing.
 - Mobile Application: 1 month project during coding bootcamp.
