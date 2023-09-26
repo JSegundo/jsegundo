@@ -1,33 +1,17 @@
 
-## 🖥️ My top tech skills:
+## 🖥️ Experience:
 
-#### - JavaScript
-- React - Next
-- Vue - Nuxt
-- ES6+
-- Node
-#### - CSS
-- Responsive design
-- Sass
-- Animation and transitions
-- Material UI
-- Tailwind css
+I'm fluent in JavaScript, HTML, CSS,spanish and english. I've been building stuff mostly with React and Node. I also know some python.  
 
-#### - HTML
-- Semantic, accessible, inclusive HTML5
 
 🔨 Stuff I've built includes:
 - Landing Pages: Created various landing pages that sent data to different CRMs.
-- E-Commerce Platform: Developed e-commerce solutions tailored to specific business needs.
-- Progressive Web App: Helped build a PWA utilizing geospatial technologies.
-- Backoffice Solutions: Designed and implemented backoffice systems to streamline administrative tasks.
-- Browser Extension: Developed a Chrome extension to provide additional browser functionality.
-- Mobile Application: Contributed to the creation of a mobile app
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsegundo)](https://github.com/anuraghazra/github-readme-stats)
-
-
+- E-Commerce Platform: The UI with Material-UI.
+- Progressive Web App: Used geospatial technologies like GeoJsons and implemented verification process using oepn-source ballerine SDK. 
+- Backoffice panel: backoffice to streamline administrative tasks and data visualization.
+- Browser Extension: A personal project to avoid distractions while browsing.
+- Mobile Application: 1 month project during coding bootcamp.
+- Corporate website: Based on the design of the old wordpress site, i built a SEO optimized Nextjs platform. 
 
 - 📫 How to reach me: https://www.linkedin.com/in/segundojuan/
-
+- https://shorturl.at/pGY09
