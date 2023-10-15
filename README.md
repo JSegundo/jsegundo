@@ -1,7 +1,7 @@
 
 ## 🖥️ Experience:
 
-I'm fluent in JavaScript, HTML, CSS,spanish and english. I've been building stuff mostly with React and Node. I also know some python.  
+I'm fluent in JavaScript, HTML, CSS, spanish and english. I've been building stuff mostly with React and Node. I also know some python.  
 
 
 🔨 Stuff I've built includes:
