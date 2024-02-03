@@ -2,7 +2,7 @@
 ## 🖥️ Experience:
 
 I'm fluent in JavaScript, HTML, CSS, spanish and english. I've been building mostly with React / Nextjs and Node.
-
+Currently learning more about maps and charts.
 
 🔨 Stuff I've worked on includes: 
 - Pixel perfect, smooth UI for an ecommerce
