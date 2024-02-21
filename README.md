@@ -8,9 +8,9 @@ I'm fluent in Typescript, HTML, CSS, spanish and english. I've been building wit
 🔨 Things I've worked on: 
 - 💀️ Pixel perfect, smooth UI for an ecommerce
 - Multiple landing pages
-- (A PWA 💀️)[https://www.instagram.com/ourworldmetaverse/] improving UI/UX, kyc multi-step verification process, react widgets. 
+- [A PWA 💀️](https://www.instagram.com/ourworldmetaverse/) improving UI/UX, kyc multi-step verification process, react widgets. 
 - Dashboard panel: (Frontend for backend) Administrative tasks and data visualization.
-- (Corporate website)[https://www.ceibo.digital/en/]: SEO optimized Nextjs platform, following and improving design from the old website
+- [Corporate website](https://www.ceibo.digital/en/): SEO optimized Nextjs platform, following and improving design from the old website
 
-(Linkedin)[https://www.linkedin.com/in/segundojuan/]
-(in process portfolio)[https://shorturl.at/pGY09]
+[Linkedin](https://www.linkedin.com/in/segundojuan/)
+[in process portfolio](https://shorturl.at/pGY09)
