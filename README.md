@@ -1,15 +1,16 @@
 
-## 🖥️ Experience:
+I'm fluent in Typescript, HTML, CSS, spanish and english. I've been building with React / Nextjs and Node with express.
 
-I'm fluent in JavaScript, HTML, CSS, spanish and english. I've been building mostly with React / Nextjs and Node.
-Currently learning more about maps and charts.
+### Currently:
+- learning more about maps and charts.
+- Building a LMS platform.
 
-🔨 Stuff I've worked on includes: 
-- Pixel perfect, smooth UI for an ecommerce
+🔨 Things I've worked on: 
+- 💀️ Pixel perfect, smooth UI for an ecommerce
 - Multiple landing pages
-- A PWA (improving UI/UX, multi-step verification process, react widgets..)
+- (A PWA 💀️)[https://www.instagram.com/ourworldmetaverse/] improving UI/UX, kyc multi-step verification process, react widgets. 
 - Dashboard panel: (Frontend for backend) Administrative tasks and data visualization.
-- Corporate website: SEO optimized Nextjs platform, following and improving design from the old website
+- (Corporate website)[https://www.ceibo.digital/en/]: SEO optimized Nextjs platform, following and improving design from the old website
 
-- 📫 How to reach me: https://www.linkedin.com/in/segundojuan/
-- https://shorturl.at/pGY09
+(Linkedin)[https://www.linkedin.com/in/segundojuan/]
+(in process portfolio)[https://shorturl.at/pGY09]
