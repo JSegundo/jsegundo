@@ -2,9 +2,9 @@
 I'm fluent in Typescript, HTML, CSS, spanish and english. I've been building with React / Nextjs and Node with express.
 
 ### Currently:
-- learning more about maps and charts.
 - Building a large scale Learning platform using Next.js + TS + PrismaORM + Supabase + Stripe + Mux..
 - Learning AWS Cloud
+- Building a simple weather comparisson web to learn more about maps and charts
 
 🔨 Things I've worked on: 
 - 💀️ Pixel perfect, smooth UI for an ecommerce
