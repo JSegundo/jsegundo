@@ -14,4 +14,5 @@ I'm fluent in Typescript, HTML, CSS, spanish and english. I've been building wit
 - [Corporate website](https://www.ceibo.digital/en/): SEO optimized Nextjs platform, following and improving design from the old website
 
 [Linkedin](https://www.linkedin.com/in/segundojuan/)
+
 [in process portfolio](https://shorturl.at/pGY09)
