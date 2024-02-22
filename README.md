@@ -3,7 +3,8 @@ I'm fluent in Typescript, HTML, CSS, spanish and english. I've been building wit
 
 ### Currently:
 - learning more about maps and charts.
-- Building a LMS platform.
+- Building a large scale Learning platform using Next.js + TS + PrismaORM + Supabase + Stripe + Mux..
+- Learning AWS Cloud
 
 🔨 Things I've worked on: 
 - 💀️ Pixel perfect, smooth UI for an ecommerce
