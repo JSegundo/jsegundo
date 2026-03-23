@@ -32,6 +32,3 @@ Cloud      AWS (Lambda · S3 · DynamoDB · CloudFront) · Vercel
 ---
 
 [Portfolio](https://segu.work) · [LinkedIn](https://linkedin.com/in/segundojuan)
-
-[Linkedin](https://www.linkedin.com/in/segundojuan/) - 
-[Blog](https://segu.work)
